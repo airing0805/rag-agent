@@ -1,0 +1,3 @@
+2024-09-09 15:01:41 | INFO | model_worker | Loading the model ['chatglm3-6b'] on worker dd737e25 ...
+2024-09-09 15:01:46 | INFO | model_worker | Register to controller
+2024-09-09 15:02:31 | INFO | model_worker | Send heart beat. Models: ['chatglm3-6b']. Semaphore: None. call_ct: 0. worker_id: dd737e25. 

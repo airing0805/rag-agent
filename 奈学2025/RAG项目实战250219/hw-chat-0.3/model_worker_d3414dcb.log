@@ -1,0 +1,4 @@
+2024-09-09 14:51:34 | INFO | model_worker | Loading the model ['chatglm3-6b'] on worker d3414dcb ...
+2024-09-09 14:51:39 | INFO | model_worker | Register to controller
+2024-09-09 14:52:24 | INFO | model_worker | Send heart beat. Models: ['chatglm3-6b']. Semaphore: None. call_ct: 0. worker_id: d3414dcb. 
+2024-09-09 14:53:09 | INFO | model_worker | Send heart beat. Models: ['chatglm3-6b']. Semaphore: None. call_ct: 0. worker_id: d3414dcb. 

@@ -1,0 +1,10 @@
+gradio
+pdfplumber
+simplejson
+requests
+PyYAML
+pillow
+reportlab
+pandas
+loguru
+openai

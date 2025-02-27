@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4414cf0d-0ae8-4850-bc1f-6a8b94b70bca" name="hw-chat">
+        <fileTransfer rootFolder="/root/autodl-tmp/hw-chat/hw-chat-0.1" accessType="SFTP" host="connect.cqa1.seetacloud.com" port="33565" sshConfigId="a726930b-ff89-40c1-ac8a-f2062be1de56" sshConfig="root@connect.cqa1.seetacloud.com:33565 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
