@@ -1,5 +1,0 @@
-2024-09-09 15:37:28 | INFO | model_worker | Loading the model ['chatglm3-6b'] on worker 7306ef37 ...
-2024-09-09 15:37:34 | INFO | model_worker | Register to controller
-2024-09-09 15:38:19 | INFO | model_worker | Send heart beat. Models: ['chatglm3-6b']. Semaphore: None. call_ct: 0. worker_id: 7306ef37. 
-2024-09-09 15:39:04 | INFO | model_worker | Send heart beat. Models: ['chatglm3-6b']. Semaphore: Semaphore(value=5, locked=False). call_ct: 1. worker_id: 7306ef37. 
-2024-09-09 15:39:49 | INFO | model_worker | Send heart beat. Models: ['chatglm3-6b']. Semaphore: Semaphore(value=5, locked=False). call_ct: 1. worker_id: 7306ef37. 
